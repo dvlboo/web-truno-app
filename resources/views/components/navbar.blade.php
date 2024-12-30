@@ -1,4 +1,4 @@
-<div class=" bg-gray-700">
+<div class="bg-gray-700">
   <div class="container mx-auto py-2 flex flex-row justify-between items-center">
   
     {{-- logo --}}
@@ -22,7 +22,6 @@
         <img src="https://avatars.githubusercontent.com/u/40992581?v=4" alt="user" class="h-10 w-10 rounded-full">
       </div>
     </div>
-  
-  
+
   </div>
 </div>
