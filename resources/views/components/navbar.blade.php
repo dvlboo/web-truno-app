@@ -1,4 +1,4 @@
-<div class="bg-gray-700">
+<div class="bg-secondBg">
   <div class="container mx-auto py-2 flex flex-row justify-between items-center">
   
     {{-- logo --}}
@@ -11,11 +11,11 @@
     </a>
   
     {{-- menu --}}
-    <div class="flex gap-20 items-center">
-      <a href="" class="text-white font-medium">Beranda</a>
-      <a href="" class="text-white font-medium">Riwayat</a>
-      <a href="" class="text-white font-medium">Jurnal</a>
-      <a href="" class="text-white font-medium">Profile</a>
+    <div class="flex gap-20 items-center text-basedColor font-medium">
+      <a href="" >Beranda</a>
+      <a href="" >Riwayat</a>
+      <a href="" >Jurnal</a>
+      <a href="" >Profile</a>
       
       {{-- profile --}}
       <div>
