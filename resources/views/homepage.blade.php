@@ -13,7 +13,7 @@
         <div class="p-2 bg-thirdBg rounded-lg border-primaryBg border-2">
           <textarea class="w-full p-4 border border-secondBg bg-secondBg text-white rounded" rows="5" placeholder="Ketik kata kunci atau abstrak anda disini dan temukan rekomendasi jurnal terbaik dari kami. Contoh : Journal of Computational and Cognitive Engineering"></textarea>
           <div class="flex justify-end">
-            <button class="mt-4 bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700">Cari Jurnal</button>
+            <button class="mt-4 bg-basedColor text-primaryBg font-bold py-2 px-4 rounded-full hover:bg-[#E7F507]">Cari Jurnal</button>
           </div>
         </div>
       </div>
@@ -96,5 +96,4 @@
       </div>
     </div>
   </section>
-
 </x-layout>
