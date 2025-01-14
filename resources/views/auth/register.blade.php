@@ -51,7 +51,7 @@
         <div class="flex items-center justify-center mt-4">
           <div class="flex items-center rounded-full bg-[#111111] font-bold">
             <!-- Sign Up Button -->
-            <button class="text-white py-2 px-8 rounded-full focus:outline-none">Login</button>
+            <a href="/login"><button class="text-white py-2 px-8 rounded-full focus:outline-none">Login</button></a>
         
             <!-- Sign Up Button -->
             <button class="bg-basedColor text-primaryBg py-2 px-8 rounded-full focus:outline-none">Sign Up</button>
@@ -126,7 +126,7 @@
           
           <div class="flex justify-center">
             <button class="px-10 py-2 font-bold bg-basedColor text-secondBg rounded-full">
-              Login
+              Sign Up
             </button>
           </div>
         </div>

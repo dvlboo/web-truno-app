@@ -54,7 +54,7 @@
             <button class="bg-basedColor text-primaryBg py-2 px-8 rounded-full focus:outline-none">Login</button>
         
             <!-- Sign Up Button -->
-            <button class="text-white py-2 px-8 rounded-full focus:outline-none">Sign Up</button>
+            <a href="/register"><button class="text-white py-2 px-8 rounded-full focus:outline-none">Sign Up</button></a>
           </div>
         </div>
 
